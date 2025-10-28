@@ -31,3 +31,6 @@ To run this workflow, you will need to provide credentials for the following ser
 * **OpenAI:** To power the AI extraction and enrichment agents.
 * **Tavily AI:** For the web search capabilities of the enrichment agent.
 * **Firecrawl:** For scraping the event web pages.
+
+<img width="1234" height="350" alt="image" src="https://github.com/user-attachments/assets/0c3cc369-9bd7-4fcd-abb4-47f7e00f4221" />
+
